@@ -11,14 +11,14 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-  <h3 align="center">Interactive 3D Portfolio Website</h3>
+  <h3 align="center">Shiyaz Shan – Interactive 3D Portfolio</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Learn how I built this stunning 3D portfolio step by step on my <a href="https://www.youtube.com/@shiyazshan" target="_blank"><b>YouTube channel</b></a>. Let's build cool stuff together!
     </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
@@ -29,114 +29,52 @@
 
 ## ⚠️ Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code for my detailed tutorial available on my YouTube channel: [Shiyaz Shan](https://www.youtube.com/@shiyazshan).
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+If you're into visual learning, this is a beginner-friendly guide you’ll love!
 
-<a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
+  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
+</a>
 
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 Introduction
 
-The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
+This is a highly interactive 3D portfolio built to showcase your skills in the most immersive way. Featuring smooth 3D animations, transitions, and mobile responsiveness — it's perfect for developers, designers, or freelancers looking to stand out.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+Need help or want to collaborate? Feel free to reach out to me!
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+## ⚙️ Tech Stack
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+- **Three.js**
+- **React Three Fiber**
+- **Drei**
+- **GSAP**
+- **Tailwind CSS**
+- **Vite**
+- **React 19**
 
-- Three.js
-- React Three Fiber
-- Drei
-- GSAP
-- Tailwind CSS
-- Vite
-- React 19
+## 🔋 Features
 
-## <a name="features">🔋 Features</a>
+- 🔥 3D Models and Reveal Animations
+- 💡 Realistic Lighting and Shadows
+- 🌀 GSAP-powered Scroll Animations
+- 📱 Responsive UI (Flex/Grid + Tailwind)
+- 🎯 Multi-Section Layout (About, Projects, Contact)
+- 📦 Clean & Modular Code
+- ⚡ Mobile 3D Optimized
+- 🔁 Micro Interactions
 
-### Features of the 3D Portfolio Project
+## 🤸 Quick Start
 
-👉 Animated 3D models and reveal animations
-
-👉 Realistic lighting and shadows
-
-👉 GSAP-powered scroll interactions
-
-👉 Responsive design with Tailwind CSS and Flexbox/Grid
-
-👉 Micro Interactions
-
-👉 Multi-section layout (About, Projects, Contact)
-
-👉 Mobile optimized 3D experience
-
-and many more, including code architecture and reusability.
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
+### Prerequisites
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [npm](https://www.npmjs.com/)
 
-**Cloning the Repository**
+### Clone the Repo
 
 ```bash
-git clone https://github.com/adrianhajdin/3d-portfolio.git
+git clone https://github.com/shiyazshan/3d-portfolio.git
 cd 3d-portfolio
 ```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-VITE_APP_EMAILJS_SERVICE_ID=
-VITE_APP_EMAILJS_TEMPLATE_ID=
-VITE_APP_EMAILJS_PUBLIC_KEY=
-```
-
-Replace the placeholder values with your actual **[EmailJS](https://www.emailjs.com/)** credentials.
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
-
-
-## <a name="links">🔗 Assets and Snippets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/pfolio25-kit)**.
-
-<a href="https://jsm.dev/pfolio25-kit" target="_blank">
-  <img src="public/images/readme-video-kit.png" alt="Video Kit Banner">
-</a>
-
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with JSM Pro Courses**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://beta.jsmastery.pro/" target="_blank">
-  <img src="public/images/readme-bottom.png" alt="Project Banner">
-</a>

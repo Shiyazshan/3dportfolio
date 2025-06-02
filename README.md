@@ -1,80 +1,74 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
-      <img src="public/images/readme.png" alt="Project Banner">
-    </a>
-  <br />
+  <img src="public/images/readme.png" alt="Shiyaz Shan Portfolio Banner" width="100%" />
+  
+  <br /><br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
+  <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-  <h3 align="center">Shiyaz Shan – Interactive 3D Portfolio</h3>
-
-   <div align="center">
-     Learn how I built this stunning 3D portfolio step by step on my <a href="https://www.youtube.com/@shiyazshan" target="_blank"><b>YouTube channel</b></a>. Let's build cool stuff together!
-    </div>
+  <h1 align="center">🎨 Shiyaz Shan's Interactive 3D Portfolio</h1>
+  <p align="center">
+    A fully immersive 3D web experience built with Three.js, React Three Fiber, GSAP, and Tailwind CSS.
+  </p>
 </div>
 
-## 📋 Table of Contents
+---
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets & Snippets](#links)
-6. 🚀 [More](#more)
+## 📌 Table of Contents
 
-## ⚠️ Tutorial
+1. [🚀 Introduction](#-introduction)
+2. [🛠 Tech Stack](#-tech-stack)
+3. [✨ Features](#-features)
+4. [⚡ Quick Start](#-quick-start)
+5. [📁 Assets](#-assets)
+6. [🧑‍💻 Author](#-author)
 
-This repository contains the code for my detailed tutorial available on my YouTube channel: [Shiyaz Shan](https://www.youtube.com/@shiyazshan).
+---
 
-If you're into visual learning, this is a beginner-friendly guide you’ll love!
+## 🚀 Introduction
 
-<a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
-</a>
+Welcome to my digital space — a 3D portfolio website built with cutting-edge web technologies to showcase my skills, projects, and personality. The goal of this project is to push visual boundaries and deliver a memorable user experience.
 
-## 🤖 Introduction
+Crafted with precision, motion, and creativity — this portfolio is ideal for recruiters, clients, and collaborators who appreciate interactive web design.
 
-This is a highly interactive 3D portfolio built to showcase your skills in the most immersive way. Featuring smooth 3D animations, transitions, and mobile responsiveness — it's perfect for developers, designers, or freelancers looking to stand out.
+---
 
-Need help or want to collaborate? Feel free to reach out to me!
+## 🛠 Tech Stack
 
-## ⚙️ Tech Stack
+| Category       | Tools & Libraries                   |
+| -------------- | ----------------------------------- |
+| **3D Engine**  | Three.js, React Three Fiber, Drei   |
+| **Animations** | GSAP (GreenSock Animation Platform) |
+| **Styling**    | Tailwind CSS, Flexbox, Grid         |
+| **Framework**  | React 19 + Vite                     |
+| **Email**      | EmailJS API for contact form        |
 
-- **Three.js**
-- **React Three Fiber**
-- **Drei**
-- **GSAP**
-- **Tailwind CSS**
-- **Vite**
-- **React 19**
+---
 
-## 🔋 Features
+## ✨ Features
 
-- 🔥 3D Models and Reveal Animations
-- 💡 Realistic Lighting and Shadows
-- 🌀 GSAP-powered Scroll Animations
-- 📱 Responsive UI (Flex/Grid + Tailwind)
-- 🎯 Multi-Section Layout (About, Projects, Contact)
-- 📦 Clean & Modular Code
-- ⚡ Mobile 3D Optimized
-- 🔁 Micro Interactions
+✅ **3D Hero Section** with interactive lighting and model animations  
+✅ **Smooth scroll transitions** using GSAP timelines  
+✅ **Fully responsive** on all screen sizes  
+✅ **Multi-section layout**: About Me, Projects, Contact  
+✅ **Micro-interactions** & animated UI components  
+✅ **Dark-friendly visuals** with clean UI and modern aesthetics  
+✅ **Reusable & scalable codebase**
 
-## 🤸 Quick Start
+---
 
-### Prerequisites
+## ⚡ Quick Start
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)
+### 🔧 Prerequisites
 
-### Clone the Repo
+- Git
+- Node.js
+- npm
+
+### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/shiyazshan/3d-portfolio.git
+git clone https://github.com/your-username/3d-portfolio.git
 cd 3d-portfolio
 ```
